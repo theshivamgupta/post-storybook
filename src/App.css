@@ -1,0 +1,19 @@
+.App {
+  box-sizing: border-box;
+  font-size: 14px;
+  display: flex;
+  /* flex-direction: column; */
+  /* height: 50vh; */
+}
+
+.textarea {
+  width: 50%;
+  height: 100vh;
+  padding: 10px;
+}
+
+.markdown {
+  width: 50%;
+  height: 100vh;
+  padding: 10px;
+}
